@@ -27,15 +27,5 @@
             "\u0110au b\u1ee5ng"
         ],
         "created_at": "2022-03-03 17:28:01"
-    },
-    {
-        "id": 6548,
-        "age": "1",
-        "name": "Cty test AB",
-        "phone": "0395689952",
-        "email": "duynguyen1581998z@gmail.com",
-        "content": "22",
-        "symptom": null,
-        "created_at": "2022-03-03 17:49:10"
     }
 ]
