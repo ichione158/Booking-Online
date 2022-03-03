@@ -49,10 +49,12 @@
                             $symptom = '';
 
                             // Lấy mảng symptom
-                            foreach($row->symptom as $row_s){
-                                $symptom .= $row_s.', ';
+                            if(!empty($row->symptom )){
+                                foreach($row->symptom as $row_s){
+                                    $symptom .= $row_s.', ';
+                                }
                             }
-
+                            
                             // Bỏ dấu ',' cuối chuỗi
                             $symptom = trim($symptom, ', ');
                 ?>
