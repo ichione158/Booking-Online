@@ -1,0 +1,30 @@
+
+body{
+    margin-top: 4rem;
+}
+
+.container {
+    max-width: 700px;
+}
+
+.center{
+    text-align: center;
+}
+
+p{
+    font-size: 1.4rem;
+}
+
+.phone{
+    color:white;
+    background-color:#f90;
+    border-bottom: 2px solid #f60;
+}
+
+.form-check{
+    display: inline-block !important;
+}
+
+table{
+    margin-top: 0.5rem;
+}
